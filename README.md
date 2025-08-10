@@ -1064,24 +1064,6 @@ Thanks to the following projects and individuals for their contributions:
 - **Changelog**: [CHANGELOG.md](CHANGELOG.md)
 - **Development Documentation**: [Wiki](https://github.com/your-username/ReveFlex/wiki)
 
-### 📱 Screenshots
-
-#### Main Interface
-![Main Interface](screenshots/main-interface-en.png)
-*ReveFlex main interface showing clear UI hierarchy*
-
-#### Search Feature
-![Search Feature](screenshots/search-feature-en.png)
-*Powerful search functionality for quick element location*
-
-#### Patch Management
-![Patch Management](screenshots/patch-management-en.png)
-*Intuitive patch management interface*
-
-#### Detail View
-![Detail View](screenshots/detail-view-en.png)
-*Rich view property information*
-
 ### 🎯 Use Cases
 
 #### Development Debugging
