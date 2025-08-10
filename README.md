@@ -558,24 +558,6 @@ make package install
 - **更新日志**：[CHANGELOG.md](CHANGELOG.md)
 - **开发文档**：[Wiki](https://github.com/your-username/ReveFlex/wiki)
 
-### 📱 截图展示
-
-#### 主界面
-![主界面](screenshots/main-interface.png)
-*ReveFlex 主界面展示了清晰的 UI 层次结构*
-
-#### 搜索功能
-![搜索功能](screenshots/search-feature.png)
-*强大的搜索功能帮助快速定位目标元素*
-
-#### 补丁管理
-![补丁管理](screenshots/patch-management.png)
-*直观的补丁管理界面*
-
-#### 详细信息
-![详细信息](screenshots/detail-view.png)
-*丰富的视图属性信息*
-
 ### 🎯 使用场景
 
 #### 开发调试
